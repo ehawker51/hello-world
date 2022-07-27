@@ -1,6 +1,13 @@
 # hello-world
 my first repository
 
+**bold text**
+*italicized text*
+
+> blockquote
+
+~~The world is flat.~~
+
 term 
 : definition
 
@@ -8,9 +15,9 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 
-	I need to highlight these ==very important words==.
+
   
-  	```
+ ```
 {
   "firstName": "John",
   "lastName": "Smith",
